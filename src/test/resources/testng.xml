@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+	parallel="classes" will execute the testcases inside class attributes. 
+	If you change it to "test" it will execute only 1 thread as we have only 1 "test" attribute 
+-->
+
+<suite name="OarangeHRMSuite" parallel="tests" thread.count="2">
+	<test name="OrangeHRMTest">
+		<classes>
+			<!-- <class name="com.orangeHRM.test.DummyTest"></class>
+			<class name="com.orangeHRM.test.DummyTest2"></class>-->
+			<class name="com.orangeHRM.test.LoginPageTest"></class>
+			<!--
+				 <class name="com.orangeHRM.test.HomePageTest"></class>-->
+		</classes>
+	</test>
+	<test name="OrangeHRMTest1">
+		<classes>
+			<class name="com.orangeHRM.test.DummyTest"></class>
+			<class name="com.orangeHRM.test.DummyTest2"></class>
+		</classes>
+	</test>
+</suite>

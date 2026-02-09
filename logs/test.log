@@ -1,0 +1,659 @@
+21:59:15 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+21:59:30 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+21:59:47 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+21:59:47 [main] ERROR com.orangehrm.utilities.LoggerManager - Error Mesage
+21:59:47 [main] FATAL com.orangehrm.utilities.LoggerManager - Fatal Message
+21:59:47 [main] INFO  com.orangehrm.utilities.LoggerManager - Action driver is created.
+21:59:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Text are matching = Invalid credentials equals Invalid credentials
+21:59:54 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+22:00:08 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+22:00:08 [main] ERROR com.orangehrm.utilities.LoggerManager - Error Mesage
+22:00:08 [main] FATAL com.orangehrm.utilities.LoggerManager - Fatal Message
+22:00:08 [main] INFO  com.orangehrm.utilities.LoggerManager - Action driver is created.
+22:00:12 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed
+18:47:18 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+18:49:42 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+18:49:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+18:49:54 [main] INFO  com.orangehrm.utilities.LoggerManager - Action driver is created.
+18:50:18 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed
+18:54:34 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+18:54:51 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+18:55:01 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+18:55:01 [main] INFO  com.orangehrm.utilities.LoggerManager - Action driver is created.
+18:55:05 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed
+19:33:29 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+19:34:00 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+19:34:08 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+19:34:08 [main] INFO  com.orangehrm.utilities.LoggerManager - Action driver is created.
+19:34:10 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+19:34:11 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+19:34:11 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+19:34:18 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = null
+19:35:39 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+19:35:41 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+19:35:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+19:35:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Action driver is created.
+19:35:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+19:35:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+19:35:54 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+19:35:56 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+19:35:56 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : manda user
+19:36:00 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+20:07:10 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+20:07:14 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:07:29 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:07:29 [main] INFO  com.orangehrm.utilities.LoggerManager - Action driver is created.
+20:07:30 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:08:00 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+20:08:06 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:08:07 [TestNG-test-OrangeHRMTest-1] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:08:07 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:08:07 [TestNG-test-OrangeHRMTest-2] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:08:21 [TestNG-test-OrangeHRMTest-1] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:08:21 [TestNG-test-OrangeHRMTest-1] INFO  com.orangehrm.utilities.LoggerManager - Action driver is created.
+20:08:24 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:08:27 [TestNG-test-OrangeHRMTest-2] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:08:29 [TestNG-test-OrangeHRMTest-4] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Error communicating with the remote browser. It may have died.
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27c4a05d7222e546e385eeed77b34391, isElementDisplayed [id]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58590}, goog:processID: 13900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58590/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (27c4a05d7222e546e385eeed77b34391)] -> xpath: //input[@name='username']]
+20:08:29 [TestNG-test-OrangeHRMTest-4] ERROR com.orangehrm.utilities.LoggerManager - Unable to enter the value = Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//input[@name='username']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58590}, goog:processID: 13900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58590/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+20:08:29 [TestNG-test-OrangeHRMTest-4] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElements {using=xpath, value=//input[@name='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58590}, goog:processID: 13900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58590/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+20:08:29 [TestNG-test-OrangeHRMTest-4] ERROR com.orangehrm.utilities.LoggerManager - Unable to enter the value = Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//input[@name='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58590}, goog:processID: 13900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58590/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+20:08:29 [TestNG-test-OrangeHRMTest-4] ERROR com.orangehrm.utilities.LoggerManager - Unable to describe the element = Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//button[contains(.,'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58590}, goog:processID: 13900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58590/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+20:08:29 [TestNG-test-OrangeHRMTest-4] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not clickable = Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//button[contains(.,'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58590}, goog:processID: 13900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58590/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+20:08:29 [TestNG-test-OrangeHRMTest-4] ERROR com.orangehrm.utilities.LoggerManager - Unable to click the element = Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//button[contains(.,'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58590}, goog:processID: 13900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58590/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+20:08:29 [TestNG-test-OrangeHRMTest-4] ERROR com.orangehrm.utilities.LoggerManager - Element not displayed = Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//div[@class='oxd-brand-banner']/img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58590}, goog:processID: 13900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58590/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+20:08:29 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:08:29 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Action driver is created.
+20:08:29 [TestNG-test-OrangeHRMTest-3] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Cannot invoke "org.openqa.selenium.WebDriver.findElements(org.openqa.selenium.By)" because "driver" is null
+20:08:29 [TestNG-test-OrangeHRMTest-3] ERROR com.orangehrm.utilities.LoggerManager - Unable to enter the value = Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+20:08:29 [TestNG-test-OrangeHRMTest-3] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Cannot invoke "org.openqa.selenium.WebDriver.findElements(org.openqa.selenium.By)" because "driver" is null
+20:08:29 [TestNG-test-OrangeHRMTest-3] ERROR com.orangehrm.utilities.LoggerManager - Unable to enter the value = Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+20:08:29 [TestNG-test-OrangeHRMTest-3] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not clickable = Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+20:08:29 [TestNG-test-OrangeHRMTest-3] ERROR com.orangehrm.utilities.LoggerManager - Unable to click the element = Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+20:08:29 [TestNG-test-OrangeHRMTest-3] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Cannot invoke "org.openqa.selenium.WebDriver.findElements(org.openqa.selenium.By)" because "driver" is null
+20:08:29 [TestNG-test-OrangeHRMTest-3] ERROR com.orangehrm.utilities.LoggerManager - Unable to compare text = Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+20:08:31 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:08:49 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:08:49 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Action driver is created.
+20:08:50 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+20:08:50 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+20:08:50 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+20:08:56 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+20:08:56 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : vrunda user
+20:09:03 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+20:24:28 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+20:24:49 [TestNG-test-OrangeHRMTest-2] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:24:49 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:24:49 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:24:49 [TestNG-test-OrangeHRMTest-1] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:24:58 [TestNG-test-OrangeHRMTest-2] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:24:58 [TestNG-test-OrangeHRMTest-2] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 36
+20:24:58 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:24:58 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 37
+20:24:58 [TestNG-test-OrangeHRMTest-1] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:24:58 [TestNG-test-OrangeHRMTest-1] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 35
+20:24:58 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:24:58 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 38
+20:24:59 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+20:24:59 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+20:24:59 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+20:24:59 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+20:24:59 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+20:25:01 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+20:25:02 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Text are matching = Invalid credentials equals Invalid credentials
+20:25:02 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = null
+20:25:10 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:25:21 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:25:21 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 37
+20:25:21 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+20:25:21 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+20:25:21 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+20:25:24 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+20:25:24 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : vrunda user
+20:25:28 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with className : oxd-userdropdown-link
+20:30:22 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+20:30:24 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:30:24 [TestNG-test-OrangeHRMTest-2] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:30:24 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:30:25 [TestNG-test-OrangeHRMTest-1] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:30:33 [TestNG-test-OrangeHRMTest-2] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:30:33 [TestNG-test-OrangeHRMTest-2] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 35
+20:30:33 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:30:33 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 36
+20:30:34 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+20:30:34 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:30:34 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 37
+20:30:34 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+20:30:34 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+20:30:34 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+20:30:34 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+20:30:34 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+20:30:36 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Text are matching = Invalid credentials equals Invalid credentials
+20:30:36 [TestNG-test-OrangeHRMTest-1] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:30:36 [TestNG-test-OrangeHRMTest-1] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 34
+20:30:37 [TestNG-test-OrangeHRMTest-4] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = null
+20:30:37 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:30:47 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:30:47 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 36
+20:30:47 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+20:30:47 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+20:30:47 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+20:30:50 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+20:30:50 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : vrunda user
+20:30:54 [TestNG-test-OrangeHRMTest-3] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with className : oxd-userdropdown-link
+20:36:45 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+20:36:46 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:36:55 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:36:55 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+20:36:56 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:37:07 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:37:07 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+20:37:09 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:37:21 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+20:37:22 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:37:30 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:37:30 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+20:37:31 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:37:53 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+20:37:55 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:37:55 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:38:03 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:38:03 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 36
+20:38:04 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:38:04 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 35
+20:38:04 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:38:06 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:38:12 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:38:12 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 36
+20:38:14 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:38:14 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 35
+20:38:16 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:38:32 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:38:32 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 35
+20:38:32 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+20:38:33 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+20:38:33 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+20:38:35 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Text are matching = Invalid credentials equals Invalid credentials
+20:38:36 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:38:46 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:38:46 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 35
+20:38:46 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+20:38:46 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+20:38:46 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+20:38:53 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+20:38:54 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : vrunda user
+20:39:00 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with className : oxd-userdropdown-link
+20:39:21 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+20:39:33 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+20:39:33 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 35
+20:39:34 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+20:39:34 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+20:39:34 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+20:39:44 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = null
+20:50:45 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+14:27:10 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+14:27:28 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+14:27:38 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+14:27:38 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+14:27:39 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+14:27:39 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+14:27:39 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+14:27:42 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+14:27:44 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Amanda User
+14:27:51 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with className : oxd-userdropdown-link
+14:30:40 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+14:30:42 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+14:31:12 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+14:31:12 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+14:31:12 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+14:31:12 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+14:31:12 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+14:31:15 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+14:31:21 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Amanda User
+14:31:48 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with className : oxd-userdropdown-link
+14:33:26 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+14:33:28 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+14:33:41 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+14:33:41 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+14:33:42 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+14:33:42 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+14:33:42 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+14:33:45 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+14:33:45 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Amanda User
+14:34:15 [main] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not clickable = Expected condition failed: waiting for element found by By.xpath: //a[text()='Logout'] to be clickable, but the element was not visible.
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64354}, goog:processID: 17336, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64354/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fe6ad8461a4e645e12157dbd334d4e3f
+14:34:17 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with className : oxd-userdropdown-link
+14:35:20 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+14:35:22 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+14:35:32 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+14:35:32 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+14:35:32 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+14:35:32 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+14:35:32 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+14:35:35 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+14:35:35 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Amanda4 User
+14:35:59 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with className : oxd-userdropdown-link
+14:37:08 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+14:37:09 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+14:37:21 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+14:37:21 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+14:37:21 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+14:37:22 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+14:37:22 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+14:37:25 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+14:37:26 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Amanda4 User
+14:37:45 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with className : oxd-userdropdown-link
+14:39:02 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+14:39:03 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+14:39:17 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+14:39:17 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+14:39:19 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+14:39:19 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+14:39:19 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+14:39:27 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+14:39:29 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Amanda4 User
+14:39:43 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with className : oxd-userdropdown-link
+21:41:27 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+21:42:03 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+21:42:52 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+21:42:52 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+21:42:55 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+21:42:56 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+21:42:56 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+21:43:00 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+21:43:00 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : manda user
+21:43:05 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+22:02:35 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+22:02:37 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+22:02:37 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+22:03:39 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+22:03:39 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 34
+22:03:40 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+22:03:56 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+22:03:56 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 33
+22:04:02 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+22:04:02 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+22:04:02 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+22:04:05 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Text are matching = Invalid credentials equals Invalid credentials
+22:04:05 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+22:04:57 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+22:04:57 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 33
+22:05:01 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+22:05:02 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+22:05:02 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+22:05:05 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+22:05:05 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : manda user
+22:05:22 [TestNG-tests-1] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+22:05:23 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+22:05:23 [TestNG-tests-2] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 34
+22:17:44 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+22:17:45 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+22:17:56 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+22:17:56 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+22:17:56 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+22:17:56 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+22:17:59 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+22:17:59 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+22:17:59 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : manda user
+22:18:04 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+18:17:22 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+18:17:30 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+18:17:40 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+18:17:40 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+18:17:40 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+18:17:40 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+18:17:43 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+18:17:44 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+18:17:45 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : John Doe
+18:17:49 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+18:34:11 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+18:34:23 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+18:34:32 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+18:34:32 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+18:34:33 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+18:34:33 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+18:34:36 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+18:34:37 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+18:34:37 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : John Doe
+18:34:42 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+18:43:16 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+18:43:17 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+18:43:31 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+18:43:31 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+18:43:33 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+18:43:33 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+18:43:42 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+18:43:45 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+18:43:45 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : JohnAshok Varikuti
+18:43:56 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+18:45:52 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+18:45:53 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+18:46:16 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+18:46:16 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+18:46:16 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+18:46:17 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+18:46:22 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+18:46:22 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+18:46:27 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : JohnAshok Varikuti
+18:46:36 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+18:49:22 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+18:49:23 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+18:49:44 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+18:49:44 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+18:49:44 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+18:49:44 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+18:49:51 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+18:49:54 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+18:49:54 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : JohnAshok Varikuti
+18:50:10 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+18:51:27 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+18:51:28 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+18:51:46 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+18:51:46 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+18:51:46 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+18:51:46 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+18:51:52 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+18:51:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+18:51:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Ben Sopi
+18:51:59 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+18:53:44 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+18:53:53 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+18:54:10 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+18:54:10 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+18:54:11 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+18:54:11 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+18:54:15 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+18:54:47 [main] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Expected condition failed: waiting for visibility of all elements located by By.xpath: //p[text()='Invalid credentials'], but no elements were found
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50031}, goog:processID: 16464, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50031/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3ab3378c678596872c8ef36966ec221f
+18:54:57 [main] ERROR com.orangehrm.utilities.LoggerManager - Unable to compare text = no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=144.0.7559.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3ab3378c678596872c8ef36966ec221f, findElement {using=xpath, value=//p[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50031}, goog:processID: 16464, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50031/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3ab3378c678596872c8ef36966ec221f
+19:00:43 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+19:00:44 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+19:01:06 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+19:01:06 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+19:01:06 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+19:01:06 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+19:01:09 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+19:01:40 [main] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Expected condition failed: waiting for visibility of all elements located by By.xpath: //p[text()='Invalid credentials'], but no elements were found
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50077}, goog:processID: 16996, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50077/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a3f74aaf001ee8978f500682162a2874
+19:01:50 [main] ERROR com.orangehrm.utilities.LoggerManager - Unable to compare text = no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=144.0.7559.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3f74aaf001ee8978f500682162a2874, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50077}, goog:processID: 16996, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50077/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a3f74aaf001ee8978f500682162a2874
+19:03:02 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+19:03:03 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+19:03:20 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+19:03:20 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+19:03:21 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+19:03:21 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+19:03:23 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+19:03:54 [main] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Expected condition failed: waiting for visibility of all elements located by By.xpath: //p[text()='Invalid credentials'], but no elements were found
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50115}, goog:processID: 12312, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50115/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: afaa95c6d3e5dfc5d41cc8f672400b53
+19:04:04 [main] ERROR com.orangehrm.utilities.LoggerManager - Unable to compare text = no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=144.0.7559.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [afaa95c6d3e5dfc5d41cc8f672400b53, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50115}, goog:processID: 12312, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50115/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: afaa95c6d3e5dfc5d41cc8f672400b53
+19:04:06 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+19:04:25 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+19:04:25 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+19:04:26 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+19:04:26 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+19:04:29 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+19:04:30 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+19:04:30 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : John Doe
+19:04:35 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+19:09:33 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+19:09:35 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+19:09:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+19:09:53 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+19:09:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+19:09:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+19:09:57 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+19:10:28 [main] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Expected condition failed: waiting for visibility of all elements located by By.xpath: //p[text()='Invalid credentials'], but no elements were found
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50197}, goog:processID: 19220, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50197/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 758ba41c1a326570c237a3b936d9d512
+19:10:38 [main] ERROR com.orangehrm.utilities.LoggerManager - Unable to compare text = no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=144.0.7559.110)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [758ba41c1a326570c237a3b936d9d512, findElement {using=xpath, value=//p[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.110, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50197}, goog:processID: 19220, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50197/devtoo..., se:cdpVersion: 144.0.7559.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 758ba41c1a326570c237a3b936d9d512
+19:10:39 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+19:10:55 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+19:10:55 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+19:10:55 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+19:10:55 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+19:10:59 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+19:11:00 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+19:11:00 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : John Doe
+19:11:10 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+23:39:08 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+23:39:17 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+23:40:05 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+23:40:05 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+23:40:05 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+23:40:05 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+23:40:07 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+23:40:08 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+23:40:09 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Michelle Automat
+23:40:13 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout
+00:17:42 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+00:20:13 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+00:59:10 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+01:00:21 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+01:00:38 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+01:00:50 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+01:01:06 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+01:01:07 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+01:01:38 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+01:01:38 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+01:01:38 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+01:01:38 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+01:01:40 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+01:01:41 [main] INFO  com.orangehrm.utilities.LoggerManager - Text are matching = Invalid credentials equals Invalid credentials
+01:01:43 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+01:03:02 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+01:03:02 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+01:03:02 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+01:03:02 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+01:03:04 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+01:03:35 [main] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Expected condition failed: waiting for visibility of all elements located by By.xpath: //p[text()='Invalid credentials'], but no elements were found
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50724}, goog:processID: 13196, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50724/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7d33bd01e5d056f2cd465b65bc8aab3
+01:03:45 [main] ERROR com.orangehrm.utilities.LoggerManager - Unable to compare text = no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=144.0.7559.133)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7d33bd01e5d056f2cd465b65bc8aab3, findElement {using=xpath, value=//p[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50724}, goog:processID: 13196, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50724/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7d33bd01e5d056f2cd465b65bc8aab3
+01:05:18 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+01:05:19 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+01:06:08 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+01:06:08 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+01:06:09 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+01:06:09 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+01:06:11 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+01:06:11 [main] INFO  com.orangehrm.utilities.LoggerManager - Text are matching = Invalid credentials equals Invalid credentials
+01:06:13 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+01:06:51 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+01:06:51 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+01:06:51 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+01:06:51 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+01:06:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+01:07:24 [main] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Expected condition failed: waiting for visibility of all elements located by By.xpath: //p[text()='Invalid credentials'], but no elements were found
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50798}, goog:processID: 13420, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50798/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 856e96585ba712f06d55d1fe1a352f96
+01:07:34 [main] ERROR com.orangehrm.utilities.LoggerManager - Unable to compare text = no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=144.0.7559.133)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [856e96585ba712f06d55d1fe1a352f96, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50798}, goog:processID: 13420, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50798/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 856e96585ba712f06d55d1fe1a352f96
+01:09:54 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+01:09:56 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+01:10:42 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+01:10:42 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+01:10:42 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+01:10:42 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+01:10:43 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+01:10:44 [main] INFO  com.orangehrm.utilities.LoggerManager - Text are matching = Invalid credentials equals Invalid credentials
+01:10:45 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+01:11:44 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+01:11:44 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+01:11:44 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+01:11:44 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+01:11:46 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+01:12:17 [main] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Expected condition failed: waiting for visibility of all elements located by By.xpath: //p[text()='Invalid credentials'], but no elements were found
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50863}, goog:processID: 11888, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50863/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1233f01c885d541a431b0e0cd78e7cf
+01:12:28 [main] ERROR com.orangehrm.utilities.LoggerManager - Unable to compare text = no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=144.0.7559.133)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e1233f01c885d541a431b0e0cd78e7cf, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50863}, goog:processID: 11888, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50863/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1233f01c885d541a431b0e0cd78e7cf
+01:13:11 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+01:13:29 [main] INFO  com.orangehrm.utilities.LoggerManager - config.properties file loaded
+01:13:31 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+01:13:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+01:13:53 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+01:13:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+01:13:53 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+01:13:55 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+01:13:55 [main] INFO  com.orangehrm.utilities.LoggerManager - Text are matching = Invalid credentials equals Invalid credentials
+01:13:56 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+01:14:17 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+01:14:17 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+01:14:17 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+01:14:17 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+01:14:19 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+01:14:50 [main] ERROR com.orangehrm.utilities.LoggerManager - Eelement is not visible = Expected condition failed: waiting for visibility of all elements located by By.xpath: //p[text()='Invalid credentials'], but no elements were found
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50934}, goog:processID: 764, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50934/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e5437ae938835ffc73e52f0f3ff334dd
+01:15:00 [main] ERROR com.orangehrm.utilities.LoggerManager - Unable to compare text = no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=144.0.7559.133)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e5437ae938835ffc73e52f0f3ff334dd, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Arko\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50934}, goog:processID: 764, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50934/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e5437ae938835ffc73e52f0f3ff334dd
+01:15:01 [main] INFO  com.orangehrm.utilities.LoggerManager - ChromeDriver instance is created
+01:15:39 [main] INFO  com.orangehrm.utilities.LoggerManager - Webdriver Initialized and Browser Maximised
+01:15:39 [main] INFO  com.orangehrm.utilities.LoggerManager - ActionDriver initialized for thread = 1
+01:15:39 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : username
+01:15:39 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with name : password
+01:15:41 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Login
+01:15:42 [main] INFO  com.orangehrm.utilities.LoggerManager - Element is displayed = Element with text : Admin
+01:15:42 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : admin Smith
+01:15:46 [main] INFO  com.orangehrm.utilities.LoggerManager - Clicked an element = Element with text : Logout

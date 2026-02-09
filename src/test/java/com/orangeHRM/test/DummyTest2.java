@@ -1,0 +1,19 @@
+package com.orangeHRM.test;
+
+import static org.testng.Assert.assertEquals;
+
+import org.testng.annotations.Test;
+
+import com.orangehrm.base.BaseClass;
+
+public class DummyTest2 extends BaseClass{
+
+	@Test
+	public void dummyTest2() {
+		
+		String title=getDriver().getTitle();
+	//	assert.assertEquals(title,"OrangeHRM");
+		assert title.equals("OrangeHRM");
+		
+	}
+}

@@ -1,0 +1,45 @@
+<Configuration status="WARN">
+	<Appenders>
+		<!--Here we are specifying that where do we need to show our logs?
+		1. <Consule> - It means the logs will be in the console
+		2. <File> - It means we will create a file to show the execution logs
+		  -->
+
+		<Console name="Console" target="SYSTEM_OUT">
+
+			<!--
+				This pattern layout tag will tell us how exatcly we will see the logged report.
+				
+				1. %d{HH:mm:ss} - it will give you the date, hour, min and sec
+				2. [%t] - Number of threads that we are using for execution
+				3. %-5level -Type of lof, eg - Informational log, debug log etc
+				4. %logger{36} - From which class the data is coming from, 36 is the length
+				5. - %msg - Message that we are trying to print
+				6. %n - next line
+				
+			-->
+			<PatternLayout
+				pattern="%d{HH:mm:ss} [%t] %-5level %logger{36} - %msg%n">
+			</PatternLayout>
+
+		</Console>
+
+		<File name="File" fileName="logs/test.log">
+
+
+			<PatternLayout
+				pattern="%d{HH:mm:ss} [%t] %-5level %logger{36} - %msg%n">
+			</PatternLayout>
+
+
+		</File>
+	</Appenders>
+
+	<!--Now we are telling the code to log everying that we have written so far in the code-->
+	<Loggers>
+		<Root level="info">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="File" />
+		</Root>
+	</Loggers>
+</Configuration>
