@@ -8,11 +8,8 @@
 <suite name="OarangeHRMSuite" parallel="tests" thread.count="2">
 	<test name="OrangeHRMTest">
 		<classes>
-			<!-- <class name="com.orangeHRM.test.DummyTest"></class>
-			<class name="com.orangeHRM.test.DummyTest2"></class>-->
 			<class name="com.orangeHRM.test.LoginPageTest"></class>
-			<!--
-				 <class name="com.orangeHRM.test.HomePageTest"></class>-->
+		    <class name="com.orangeHRM.test.HomePageTest"></class>
 		</classes>
 	</test>
 	<test name="OrangeHRMTest1">
